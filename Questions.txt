@@ -1,0 +1,24 @@
+Q1
+How many customers are having an outlook.com email domain? 
+
+Q2
+How many customers placed order in 2018?
+
+Q3
+How many customers placed order in Dec 2017?
+
+Q4
+Create a new column called ‘Week Period’ for every order purchase date.
+Week period is defined as the date of Sunday to date of Saturday of the week in which the purchase date falls into. 
+Ex. If the order purchase date is 11th May, it falls in the week 6th May to 12th May where 6th May is the Sunday of that week and 12th May is Saturday.
+
+Q5
+How many orders were approved within 24 hours of the purchase date?
+
+Q6
+How many customers have orders with an estimated delivery date falling on a weekday?
+
+Q7
+Write query to derive a new column called profitability_status from the table transactions.
+If profit column has +ve values, set profitability_status = 'Profit' else 'Loss' .
+

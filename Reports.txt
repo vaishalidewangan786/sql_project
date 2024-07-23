@@ -1,0 +1,15 @@
+Prepare the following reports:
+
+Report 1 : Prepare a Purchase Year, Month wise report of Sales
+Based on the output of Report-1, answer the questions that follow:
+Q1 
+In the year 2017, which purchase month recorded the highest sales?
+Q2
+The total sales in the month of March 2018 is ________
+
+Report 2 : Prepare a report to show top 5 Region-Category by most profits
+Based on the output of Report-2, answer the questions that follow:
+Q1
+Which region has the highest overall profit?
+Q2
+Which category has the highest overall profit across all regions?
